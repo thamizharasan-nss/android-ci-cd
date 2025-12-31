@@ -428,4 +428,3 @@ Thats it! Congrats for deploying you Android app on Play Store 😀✅
 - [Demystifying Github Actions - proandroiddev.com](https://proandroiddev.com/android-ci-cd-pipeline-with-github-actions-demystifying-github-actions-83258e76a18f)
 - [Automate Android App Publishing on Play Store - medium.com](https://medium.com/@niraj_prajapati/automate-android-app-publishing-on-play-store-using-github-actions-554de7801c36)
 
-- 
